@@ -19,6 +19,16 @@
     "supertest": "^6.0.1"
   },
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "@types/jest": "^26.0.20",
+    "express": "^4.17.1",
+    "knex": "^0.21.16",
+    "sqlite3": "^5.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/LambdaSchool/node-server-testing/issues"
+  },
+  "homepage": "https://github.com/LambdaSchool/node-server-testing#readme",
+  "main": "index.js",
+  "keywords": [],
+  "author": ""
 }
